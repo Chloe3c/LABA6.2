@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "css", "css\css.csproj", "{9D98D916-917A-477C-8998-1C9C3A396FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classlib", "classlib\classlib.csproj", "{037F80D6-73BE-4CDD-A989-67EF5CF03DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D98D916-917A-477C-8998-1C9C3A396FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D98D916-917A-477C-8998-1C9C3A396FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D98D916-917A-477C-8998-1C9C3A396FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D98D916-917A-477C-8998-1C9C3A396FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037F80D6-73BE-4CDD-A989-67EF5CF03DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037F80D6-73BE-4CDD-A989-67EF5CF03DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037F80D6-73BE-4CDD-A989-67EF5CF03DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037F80D6-73BE-4CDD-A989-67EF5CF03DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
